@@ -1,0 +1,8 @@
+#!/bin/bash
+while true
+do
+perl servers.pl
+perl devices.pl
+sleep 60
+done
+
